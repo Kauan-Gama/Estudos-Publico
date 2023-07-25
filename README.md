@@ -21,5 +21,6 @@ Caso Execução dos Projetos em Java seja desejada, é Recomendado usar o Pacote
 
 ## Projetos
 
-| Número | Projeto | Linguagem |
-|--------|
+| Projeto | Linguagem |
+|---------|-----------|
+
