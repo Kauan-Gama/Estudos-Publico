@@ -25,5 +25,5 @@ Caso Execução dos Projetos em Java seja desejada, é Recomendado usar o Pacote
 |---------|-----------|
 | [Página Pessoal Alura](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/HTML%20%2B%20JS/PROJETO_1) | HTML + CSS |
 | [ROBOTRON-2000](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/HTML%20%2B%20JS/ROBOTRON)| HTML + CSS + JS |
-
+| [Mochila de Viagem](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/HTML%20%2B%20JS/MOCHILA) | HTML + CSS + JS |
 
