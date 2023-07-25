@@ -23,4 +23,5 @@ Caso Execução dos Projetos em Java seja desejada, é Recomendado usar o Pacote
 
 | Projeto | Linguagem |
 |---------|-----------|
+| Página Pessoal Alura | HTML |
 
