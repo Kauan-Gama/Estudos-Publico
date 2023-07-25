@@ -1,0 +1,11 @@
+{
+    "nome": "James",
+    "email": "james@salada.com",
+    "telefone": ["11223344", "11922334453"],
+    "endereco": {
+      "rua": "R. Fruta Salada",
+      "numero": 404,
+      "apartamento": true,
+      "complemento": "ap 934"
+    }  
+}
