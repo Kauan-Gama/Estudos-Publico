@@ -34,3 +34,4 @@ Caso Execução dos Projetos em Java seja desejada, é Recomendado usar o Pacote
 | [Bytebank-Encapsulado](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/BytebankEncapsulado) | JAVA |
 | [Bytebank-Herdado](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/BytebankHerdado) | JAVA |
 | [Bytebank-Herdado](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/BytebankHerdadoConta) | JAVA |
+| [Teste de Execução Múltipla](https://github.com/Kauan-Gama/Estudos-Publico/tree/main/bat) | BAT  |
