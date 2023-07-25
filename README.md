@@ -16,4 +16,5 @@ Estes são Meus arquivos de estudos de programação. Maior parte dos projetos f
 
 ---
 ### Nota:
-Todos os Arquivos em JAVA foram Programados no Aplicativo VSCode com Auxílio do Add-on <a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack">Extension Pack for Java </a> para obter funsões similares ao Eclipse
+Todos os Arquivos em JAVA foram Programados no Aplicativo VSCode com Auxílio do Add-on <a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack">Extension Pack for Java </a> para obter funsões similares ao Software Eclipse.
+Caso Execução dos Projetos em Java seja desejada, é Recomendado usar o Pacote de Extensões Descrito Acima.
